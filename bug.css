@@ -1,0 +1,1 @@
+The CSS rule `:nth-child(n)` is used incorrectly, resulting in unexpected styling of elements.  The formula used in the `n` parameter is incorrect and only styles every other element, causing some elements to unexpectedly be left unstyled.
