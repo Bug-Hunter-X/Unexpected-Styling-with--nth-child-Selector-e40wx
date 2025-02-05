@@ -1,0 +1,8 @@
+/* bugSolution.css */
+li:nth-child(odd) {
+  background-color: lightblue;
+}
+li:nth-child(even) {
+  background-color: lightpink;
+}
+/*Correctly styles every other element*/
